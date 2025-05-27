@@ -2,4 +2,4 @@
 The version with the updated android sdk.
 O Android SDK foi atualizado de 18-23 para 18-30.
 
-[[![Release](https://img.shields.io/badge/Release-Download-brightgreen?style=for-the-badge)](https://github.com/MarvinHack11/Modern-air-combat-fixed/releases/latest)](https://img.shields.io/badge/Release-Download-brightgreen)
+<a href="https://github.com/MarvinHack11/Modern-air-combat-fixed/releases/latest" style="color:green; font-weight:bold;">Release</a>
